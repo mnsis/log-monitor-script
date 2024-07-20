@@ -1,7 +1,26 @@
 # log-monitor-script
 Script to monitor logs and handle errors for the stationd service.
 
-### Step 1: Download the Script
+# Log Monitoring Script
+
+This script monitors logs and handles errors for the `stationd` service.
+
+## How to Use
+
+### Step 1: Install Go
+
+Before running the script, make sure Go is installed on your system. You can install it by running the following commands:
+
+```bash
+sudo rm -rf /usr/local/go
+curl -L https://go.dev/dl/go1.22.4.linux-amd64.tar.gz | sudo tar -xzf - -C /usr/local
+echo 'export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin' >> $HOME/.bash_profile
+echo 'export PATH=$PATH:$(go env GOPATH)/bin' >> $HOME/.bash_profile
+source ~/.bash_profile
+go version
+```
+
+### Step 2: Download the Script
 
 Clone the repository and navigate into the directory:
 
@@ -11,7 +30,7 @@ cd log-monitor-script
 chmod +x monitor.sh
 ```
 
-### Step 2: Run the Script
+### Step 3: Run the Script
 
 To start the script, simply run:
 
@@ -128,6 +147,11 @@ To ensure that temporary files created by the script are regularly cleaned up, y
    ```bash
    cat /root/clean_tmp.log
    ```
+
+### Relevant Links
+
+- [GitHub Repository](https://github.com/mnsis/log-monitor-script)
+- [Script File](https://github.com/mnsis/log-monitor-script/blob/main/monitor.sh)
 
 ### Relevant Links
 
