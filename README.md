@@ -82,29 +82,3 @@ The script has the capability to send notifications to a Telegram bot. To enable
 5. Save the changes and run the script as described above.
 
 By following these steps, you can effectively use the log monitoring script, run it in the background, and receive notifications via Telegram.
-
-### Relevant Links
-
-- [GitHub Repository](https://github.com/mnsis/log-monitor-script)
-- [Script File](https://github.com/mnsis/log-monitor-script/blob/main/monitor.sh)
-```
-
-### Step 2: Pushing the Changes to GitHub
-
-1. Save the changes in the README.md file and exit the editor.
-
-2. Push the changes to GitHub:
-
-   ```bash
-   git add README.md
-   git commit -m "Add detailed usage instructions"
-   git push origin main
-   ```
-
-### Step 3: Sharing the Link with the Audience
-
-- After uploading the script and README.md file, you can share the link to your repository on GitHub with the audience. They can follow the instructions in the README.md to download and run the script.
-
-The repository link will be:
-```
-https://github.com/mnsis/log-monitor-script
