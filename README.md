@@ -90,6 +90,7 @@ The script has the capability to send notifications to a Telegram bot. To enable
    ```
 
    Remove the `#` at the beginning of these lines to uncomment them.
+![image_2024-07-20_12-23-29](https://github.com/user-attachments/assets/63767243-a6d4-4bfe-98b6-0462c604cf12)
 
 5. Save the changes and run the script as described above.
 
