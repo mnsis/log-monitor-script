@@ -108,8 +108,3 @@ By following these steps, you can effectively use the log monitoring script, run
 The repository link will be:
 ```
 https://github.com/mnsis/log-monitor-script
-```
-
-### Final Result:
-
-Now, the README.md file includes all the necessary instructions to run the script, run it in the background using `screen`, and enable Telegram notifications. You can share the repository with others so they can benefit from the script.
