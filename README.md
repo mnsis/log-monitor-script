@@ -1,6 +1,3 @@
-# log-monitor-script
-Script to monitor logs and handle errors for the stationd service.
-
 # Log Monitoring Script
 
 This script monitors logs and handles errors for the `stationd` service.
