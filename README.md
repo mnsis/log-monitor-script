@@ -152,8 +152,3 @@ To ensure that temporary files created by the script are regularly cleaned up, y
 
 - [GitHub Repository](https://github.com/mnsis/log-monitor-script)
 - [Script File](https://github.com/mnsis/log-monitor-script/blob/main/monitor.sh)
-
-### Relevant Links
-
-- [GitHub Repository](https://github.com/mnsis/log-monitor-script)
-- [Script File](https://github.com/mnsis/log-monitor-script/blob/main/monitor.sh)
