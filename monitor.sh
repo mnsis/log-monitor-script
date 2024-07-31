@@ -35,7 +35,6 @@ rpc_endpoints=(
     "https://t-airchains.rpc.utsa.tech/"
     "https://airchains-rpc.sbgid.com/"
     "https://testnet.rpc.airchains.silentvalidator.com/"
-    "https://airchains-testnet-rpc.crouton.digital/"
     "https://airchains-testnet-rpc.itrocket.net/"
 )
 check_interval=30  # Interval to check logs in seconds
