@@ -33,9 +33,8 @@ persistent_error_patterns=(
 )
 rpc_endpoints=(
     "https://t-airchains.rpc.utsa.tech/"
-    "https://airchains-rpc.sbgid.com/"
     "https://testnet.rpc.airchains.silentvalidator.com/"
-    "https://airchains-testnet-rpc.itrocket.net/"
+    "https://airchains-testnet-rpc.crouton.digital/"
 )
 check_interval=30  # Interval to check logs in seconds
 error_duration=$((5 * 60))  # Duration to wait before verifying if error persists in seconds (5 minutes)
