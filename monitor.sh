@@ -37,9 +37,8 @@ persistent_error_patterns=(
 )
 rpc_endpoints=(
     "https://t-airchains.rpc.utsa.tech/"
-    "https://airchains-rpc.sbgid.com/"
     "https://testnet.rpc.airchains.silentvalidator.com/"
-    "https://airchains-testnet-rpc.itrocket.net/"
+    "https://airchains-testnet-rpc.crouton.digital/"
 )
 rollback_retries=0
 max_rollback_retries=1
