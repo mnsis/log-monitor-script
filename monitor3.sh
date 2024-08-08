@@ -27,9 +27,12 @@ restart_delay=120
 config_file="$HOME/.tracks/config/sequencer.toml"
 
 unique_urls=(
-  "https://t-airchains.rpc.utsa.tech/"
+  "https://airchains-rpc.sbgid.com/"
+  "https://rpc-airchains.bootblock.xyz/"
   "https://testnet.rpc.airchains.silentvalidator.com/"
-  "https://airchains-testnet-rpc.crouton.digital/"
+  "https://junction-rpc.validatorvn.com/"
+  "https://airchains-testnet.rpc.stakevillage.net:443/"
+  "https://airchains-testnet-rpc.itrocket.net/"
 )
 
 function select_random_url {
